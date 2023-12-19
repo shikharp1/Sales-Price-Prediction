@@ -57,12 +57,14 @@ Limitations: model complexity and computational intensity
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/f8784918-612c-40bc-bed5-f36cfc085540)
 
 CatBoost Regressor Model:
+
 CatBoost is a state-of-the-art machine learning algorithm that excels in handling categorical data, making it highly suitable for predicting store sales which often involves diverse data types.
 Applications in Sales Forecasting: Practical applications, such as forecasting daily or weekly sales, adjusting for seasonal trends, and promotions impact analysis.
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/7636ece1-1ada-4580-9c23-4bc287c49b3c)
 
 XGBoost Regressor Model:
+
 XGBoost stands for eXtreme Gradient Boosting and is renowned for its efficiency and effectiveness in predictive modeling, especially in scenarios like store sales forecasting where precision and speed are crucial
 
 Can handle different types of sales data, including continuous and categorical variables.
