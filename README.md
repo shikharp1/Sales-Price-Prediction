@@ -1,8 +1,8 @@
 # Sales-Price-Prediction
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/d12e737c-1a9c-47b0-9525-3516c2a05a11)
-Corporación Favorita is a major grocery retailer with operations in hundreds of supermarkets throughout Ecuador. They carry a variety of products on their shelves. 
 
+Corporación Favorita is a major grocery retailer with operations in hundreds of supermarkets throughout Ecuador. They carry a variety of products on their shelves. 
 A key factor in a company’s retail performance is the ability to properly estimate sales and manage inventories. The key problem is predicting the sales and inventory requirements for each location to avoid overstocking and understocking, allowing the business to offer the greatest customer service while reducing losses and guaranteeing the store’s sustainability.
 
 Data Understanding
