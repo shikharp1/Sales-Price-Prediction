@@ -5,7 +5,7 @@ Corporación Favorita is a major grocery retailer with operations in hundreds of
 
 A key factor in a company’s retail performance is the ability to properly estimate sales and manage inventories. The key problem is predicting the sales and inventory requirements for each location to avoid overstocking and understocking, allowing the business to offer the greatest customer service while reducing losses and guaranteeing the store’s sustainability.
 
-##Data Understanding
+Data Understanding
 The dataset consists of 6 different files:
 1.  Train: The training data, comprising time series of features   store_nbr, family, and onpromotion as well as the target sales.
 2.  Test: The test data, having the same features as the training data.
@@ -16,7 +16,7 @@ The dataset consists of 6 different files:
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/b76ae93f-bcc4-49d4-99b9-d3e3c72111ba)
 
-## Data Preparation
+Data Preparation
 Preparation of Data consist of various Steps such as :
 
 Data Importation
@@ -25,7 +25,7 @@ Duplicate Values
 Data Reduction
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/6270797c-47b4-4f6c-ab32-852aea6d0fc2)
 
-##Exploratory Data Analysis
+Exploratory Data Analysis
 Univariate Analysis:
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/032b781d-7274-45c6-86d3-c3e06c57d002)
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/c12f4d45-3b05-49cd-acd1-32c677b4c30f)
@@ -41,14 +41,14 @@ Multivariate Data Analysis
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/f63d910c-69a3-4480-ad29-b00bf24103fa)
 
-##Linear Regression Model:  
+Linear Regression Model:  
 
 Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. 
 In the context of store sales, it predicts future sales based on historical data trends.
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/0b549083-0684-4835-b518-1ad64a73eceb)
 
-##Random Forest Regressor Model:
+Random Forest Regressor Model:
 
 Random Forest as an ensemble learning method for regression that combines multiple decision trees for more accurate and stable predictions.Strengths:  handling large data sets with higher dimensionality 
 Limitations: model complexity and computational intensity
@@ -56,7 +56,7 @@ Limitations: model complexity and computational intensity
 
 ![image](https://github.com/shikharp1/Store-Sales-Forecasting/assets/64658989/f8784918-612c-40bc-bed5-f36cfc085540)
 
-##CatBoost Regressor Model:
+CatBoost Regressor Model:
 CatBoost is a state-of-the-art machine learning algorithm that excels in handling categorical data, making it highly suitable for predicting store sales which often involves diverse data types.
 Applications in Sales Forecasting: Practical applications, such as forecasting daily or weekly sales, adjusting for seasonal trends, and promotions impact analysis.
 
